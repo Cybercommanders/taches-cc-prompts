@@ -7,10 +7,14 @@ A growing collection of my favourite custom Claude Code resources in one place.
 ### Option 1: Plugin Install (Recommended)
 
 ```bash
-# Add as a marketplace and install
+# Add the marketplace
 claude plugin marketplace add glittercowboy/taches-cc-resources
+
+# Install the plugin
 claude plugin install taches-cc-resources
 ```
+
+Start a new Claude Code session to use the commands and skills.
 
 ### Option 2: Manual Install
 
